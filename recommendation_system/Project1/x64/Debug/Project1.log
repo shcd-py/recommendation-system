@@ -1,0 +1,7 @@
+﻿  DataLoader.cpp
+  ManhattanDistance.cpp
+  MergeSort.cpp
+  main.cpp
+C:\Users\Hakan Can Dogan\Desktop\cmp2003-1904321-deneme2\cmp2003-1904321-deneme2\Project1\main.cpp(23,52): warning C4267: 'bağımsız değişken': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  Project1.vcxproj -> C:\Users\Hakan Can Dogan\Desktop\cmp2003-1904321-deneme2\cmp2003-1904321-deneme2\x64\Debug\Project1.exe
